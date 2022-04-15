@@ -1,0 +1,8 @@
+.productdata{
+    display:flex;
+    gap:10px;
+}
+.productdata img{
+    width: 100px;
+    height: 100px;
+}
